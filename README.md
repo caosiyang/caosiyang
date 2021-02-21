@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I'm a programmer. I enjoy snowboarding and surfskating.
 
-https://github-readme-stats.vercel.app/api?username=caosiyang&show_icons=true&theme=vue-dark
+[![caosiyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=caosiyang&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)

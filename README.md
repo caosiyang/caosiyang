@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a programmer. I enjoy snowboarding and surfskating.
+
+https://github-readme-stats.vercel.app/api?username=caosiyang&show_icons=true&theme=vue-dark

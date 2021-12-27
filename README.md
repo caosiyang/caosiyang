@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A programmer loves snowboarding.
+Here is a programmer who loves snowboarding.
 
 [![caosiyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=caosiyang&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caosiyang&hide=html&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
